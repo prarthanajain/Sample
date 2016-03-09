@@ -1,0 +1,16 @@
+div
+{
+  margin-left: 30%;
+}
+body{
+  background-color:#e3e3e3;
+}
+blockquote
+{
+  border:2px solid white;
+  align-items: center;
+margin-left: 15;
+padding-left: 10px,10px,10px,10px;
+padding-right: 10px;
+
+}
