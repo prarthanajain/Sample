@@ -1,0 +1,341 @@
+header
+{
+  background: #b30000;
+  width: 100%;
+  height: 40px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  opacity: 0.90;
+}
+.sec
+{
+  background: #b30000;
+  width: 100%;
+  height: 60px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  opacity: 0.90;
+margin-top:30px;
+}
+.pass
+{
+  background: #b30000;
+  width:100%;
+  height:440px;
+  top: 0;
+  left:0;
+  right: 0;
+  opacity: 0.90;
+margin-top:200px;
+}
+.search
+{
+  background: #b30000;
+  border-bottom:3px solid #000000;
+  width:100%;
+  height:440px;
+  top: 0;
+  left:0;
+  right: 0;
+  opacity: 0.90;
+margin-top:0px;
+}
+
+.port
+{
+background: #000000;
+  width: 100%;
+  height: 900px;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 0.90;
+  margin-top:0px;
+}
+.play
+{
+  background: #dddddd;
+  width: 100%;
+  height:440px;
+  top: 0;
+  left:0;
+  right: 0;
+  opacity: 0.90;
+margin-top:0px;
+}
+
+.free
+{
+background: url(http://www.fairfieldcityleisurecentres.com.au/tl_files/images/banner04.jpg) no-repeat;
+position: absolute;
+top: 860px;
+left: 300px;
+height:400px;
+width: 100%
+}
+.map
+{
+background: url(https://www.google.com/maps/d/thumbnail?mid=z_rfheVwwEiI.kYX4ttJhbPuI&hl=en_US) no-repeat;
+position: absolute;
+top: 2180px;
+left: 508px;
+height:440px;
+width:500px;
+}
+.map2
+{
+background: url(https://www.google.com/maps/d/thumbnail?mid=z_rfheVwwEiI.kYX4ttJhbPuI&hl=en_US) no-repeat;
+position: absolute;
+top: 2180px;
+left: 1008px;
+height:440px;
+width:386px;
+}
+input
+{
+  height: 50px;
+  padding-left: 20px;
+  margin-left: 40px;
+}
+.pin h1
+{
+  margin-left: 20px;
+}
+
+#submit
+{
+padding-left: 20px;
+width: 100px;
+}
+.pin
+{
+background: #b30000;
+position: absolute;
+top: 2180px;
+left: 8px;
+height:440px;
+width: 500px;
+opacity:0.90;
+}
+
+.pass h1
+{
+  font-size: 30px;
+  text-align: center;
+}
+.head2
+{
+  background-color: #000000;
+  color: #000000;
+  text-align: right;
+  list-style: none;
+
+}
+.head2 > ul
+{
+  height: 100px;
+}
+.head2 > li
+{
+  display: inline-block;
+  font-size: 20px;
+
+}
+.head2 > li > a
+{
+  text-decoration: none;
+  color: #FFFFFF;
+}
+.head2 > li > a:hover
+{
+  color: #FF00FF;
+}
+.nav > li > a:hover
+{
+  color: #FFFFFF;
+}
+
+.clr
+{
+  background: #00ff00;
+  margin-top: 40px;
+}
+
+.left
+{
+  float: left;
+}
+.right
+{
+  float: right;
+}
+nav ul li
+{
+  display: inline;
+  margin-right: 4px;
+}
+nav ul li a
+{
+  text-decoration: none;
+  text-color:#FF00FF;
+}
+.background_wrap
+{
+
+  left: 0;
+ opacity: 0.90;
+  height: 550px;
+  margin-top: 82px;
+width: 100%;
+  top: 0;
+z-index: 100;
+}
+#vid
+{
+  width: 100%;
+
+}
+.content
+{
+position:absolute;
+top: 200px;
+left: 170px;
+}
+.content h1
+{
+  text-align: center;
+  font-size: 65px;
+  font-weight: 300;
+  color: #000000;
+  padding-top: 15%;
+  margin-bottom: 10px;
+}
+.pro
+{
+  position: absolute;
+  top: 1250px;
+  left: 40px;
+}
+.img1
+{
+  background: url(http://fitnessandhealth.altervista.org/wp-content/uploads/2013/01/exercise.jpg) no-repeat;
+  top: 1350px;
+  left: 150px;
+  width: 200px;
+  height: 350px;
+}
+.img3
+{
+  background: url(http://thepulse.gonutrition.com/wp-content/uploads/2015/11/Gym-Machine.jpg) no-repeat;
+  top: 1350px;
+  left: 800px;
+  width: 200px;
+  height: 350px;
+}
+.pro h2
+{
+  text-align: left;
+  font-size: 30px;
+  color: #ffffff;
+  font-style: italic;
+}
+.over h1
+{
+  text-align: left;
+  font-size: 30px;
+  color: #ffffff;
+  font-style: italic;
+}
+.over2 h2
+{
+  text-align: left;
+  font-size: 30px;
+  color: #ffffff;
+  font-style: italic;
+}
+
+.img h1
+{
+  text-align: left;
+  font-size: 30px;
+  color: #ffffff;
+  font-style: italic;
+}
+
+.content p
+{
+  text-align: center;
+  font-size: 30px;
+  letter-spacing: 3px;
+  color: #800000;
+}
+.samesize
+{
+  height: 300px;
+  width: 225px;
+}
+.size
+{
+  height: 225px;
+  width: 300px;
+}
+.over
+{
+  position:absolute;
+  top: 1350px;
+  left: 230px;
+}
+.over2
+{
+  position:absolute;
+  top: 1800px;
+  left: 170px;
+}
+footer
+{
+  background:  #b30000;
+  width: 100%;
+  overflow: hidden;
+}
+footer p , footer h3
+{
+  color: #FFF;
+}
+footer p , footer a
+{
+  color: #FFF;
+  text-decoration: none;
+}
+section
+{
+  width: 29%;
+  float: left;
+  margin: 2%,2%;
+  text-align: center;
+}
+.social li
+{
+ display: inline-block;
+}
+.social li img
+{
+ height: 50px;
+ display: inline-block;
+}
+footer.second
+{
+  border-top: 1px solid #4D4E50;
+  background-color: #000000;
+  max-height: 50px;
+  text-align: center;
+  opacity: 0.95;
+}
+.down
+{
+  height: 127px;
+  width: 127px;
+}
