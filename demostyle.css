@@ -1,0 +1,40 @@
+.container_12{
+  background: red;
+}
+nav li{
+  display:inline;
+}
+h1
+{
+  overflow: hidden;
+}
+
+
+
+<ul class="slides">
+  <li class="samesize grid_3"><img class="mar" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmrYjk-PMmnsw9ZFvvhgkiR1gIA3xH_Gx8gU2wgIIiIbPcj2xq3w" alt="image" /></li>
+  <li class="samesize grid_3"><img class="mar" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmrYjk-PMmnsw9ZFvvhgkiR1gIA3xH_Gx8gU2wgIIiIbPcj2xq3w" alt="" /></li>
+  <li class="samesize grid_3"><img class="mar" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmrYjk-PMmnsw9ZFvvhgkiR1gIA3xH_Gx8gU2wgIIiIbPcj2xq3w" alt="" /></li>
+</ul>
+
+
+
+article
+{
+  float: left;
+  margin: 0,auto;
+  width: 50%;
+  height: auto;
+  padding: 4%;
+}
+
+
+
+
+<div class="clear"></div>
+<div class="wrap container_12">
+  <div class="grid_10">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmrYjk-PMmnsw9ZFvvhgkiR1gIA3xH_Gx8gU2wgIIiIbPcj2xq3w" alt="" />
+<h1 class="grid_2">We Design our bestttttTT</h1>
+  </div>
+</div>
